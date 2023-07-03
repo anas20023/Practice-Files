@@ -1,5 +1,7 @@
 # marks
-marks
+Full C programming Code Repository 
+
+
 THIS A LELEARNING TIME FILE WITH SHORT PROGRAMS.....
 
 
