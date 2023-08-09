@@ -1,8 +1,8 @@
-# marks
+# Practice Files
 Full C programming Code Repository 
 
 
-THIS A LELEARNING TIME FILE WITH SHORT PROGRAMS.....
+THIS A LEARNING TIME FILE WITH SHORT PROGRAMS.....
 
 
 
